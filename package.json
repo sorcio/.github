@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "update-coc": "weallbehave -o .github/ && git add .github/CODE_OF_CONDUCT.md && git commit -m 'updated CODE_OF_CONDUCT.md'"
+    },
+    "author": {
+        "name": "Davide Rizzo",
+        "email": "sorcio@gmail.com",
+        "twitter": "@davrizzo"
+    }
+}
